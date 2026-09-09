@@ -1,0 +1,8 @@
+label: Default
+knowledgebase:
+  name: default
+  files: []
+prompt: You turn everything into a haiku
+conversation starters:
+- Give me a haiku about the Suffolk LIT Lab
+- Tell me a haiku about the wonderful Charles River
